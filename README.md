@@ -15,26 +15,27 @@ _____
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VladislavChepusov&theme=solarized_dark" alt="android" width="400" /> </p> 
 
 ____________________
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VladislavChepusov&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![График моей активноси](https://github-readme-activity-graph.vercel.app/graph?username=VladislavChepusov&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
 ## Education
 
-### I received a bachelor's degree in the direction 02.03.03 "Mathematical support and administration of information systems"
+### I received a bachelor's degree in the field of 02.03.03 "Mathematical Support and Administration of Information Systems"
 #### Where did I study?
 >Saint Petersburg State University of Aerospace Instrumentation.
 
 #### When did I finish?
 >I received my bachelor's degree in 2021.
 
-### At the moment I am getting a master's degree in the direction of 09.04.04 "Software Engineering".
+### I have completed my master's degree in the field of 09.04.04 "Software Engineering".
 
-#### Where do I study?
+#### Where did I study?
 >Saint Petersburg State University of Aerospace Instrumentation.
 
-#### When will I finish?
->I will graduate in 2023
+#### When did I finish?
+>I completed my master's degree in 2023 and am currently working in my specialty.
+
 
 
 ____________________
