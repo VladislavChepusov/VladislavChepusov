@@ -1,8 +1,8 @@
-<h3 align="center">
+<div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300CC00&lines=Welcome+to+my+archive!!!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%300CC00&lines=Welcome+to+my+archive!)](https://git.io/typing-svg)
 
-</h3>
+</div>
 
 
 <h3 align="center">
@@ -45,8 +45,10 @@ ____________________
 
 
 
+## Communication with me
 
-____________________
+ 
+ [![Telegram](https://img.shields.io/static/v1?label=Join&message=Telegram&color=blue&style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/hate_machine)
 
 
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:vladislavchepusov@gmail.com)
